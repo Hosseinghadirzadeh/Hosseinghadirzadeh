@@ -1,5 +1,5 @@
 # 💫 About Me:
-i there✌ I'm Hossein Ghadirzadeh<br>- 🔭 I’m currently learning Js and React<br>- 👯 I’m looking to collaborate on any front-end projects<br>- 💬 Ask me about ...<br>- 📫 How to reach me: <br>  Instagram:<br>    https://www.instagram.com/hosseinghadirzadeh.official/<br>  Linkdin:<br>    https://www.linkedin.com/in/hossein-ghadirzadeh-/<br>  Telegram:<br>    @hosseinghadirzadeh<br>- ⚡ My Hobbies are:<br>watchin movie<br>coding<br>game <br>and jogging :)
+Hi there✌ I'm Hossein Ghadirzadeh<br>- 🔭 I’m currently learning Js and React<br>- 👯 I’m looking to collaborate on any front-end projects<br>- 💬 Ask me about ...<br>- 📫 How to reach me: <br>  Instagram:<br>    https://www.instagram.com/hosseinghadirzadeh.official/<br>  Linkdin:<br>    https://www.linkedin.com/in/hossein-ghadirzadeh-/<br>  Telegram:<br>    @hosseinghadirzadeh<br>- ⚡ My Hobbies are:<br>watchin movie<br>coding<br>game <br>and jogging :)
 
 
 ## 🌐 Socials:
