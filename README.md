@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Hosseinghadirzadeh/Hosseinghadirzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi there✌ I'm Hossein Ghadirzadeh
 - 🔭 I’m currently learning Js and React
@@ -19,4 +15,4 @@ watchin movie
 coding
 game 
 and jogging :)
--->
+
