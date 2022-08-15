@@ -24,3 +24,6 @@ and jogging :)
 ## Languages and Tools
 
 [![icons8-java-48](https://user-images.githubusercontent.com/74541595/179397635-6065c1dd-fbd9-4fe9-9088-0e8bbebadecb.png)](https://www.java.com/)
+## Status
+
+[![HOssein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinghadirzadeh)](https://github.com/anuraghazra/github-readme-stats)
